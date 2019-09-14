@@ -1,0 +1,5 @@
+EMAIL: admin@admin.com 
+PASSWORD: password
+
+
+laravel version - 5.5
